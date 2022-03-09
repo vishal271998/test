@@ -1,5 +1,5 @@
 {
-    "name": "vishal/test",
+    "name": "vishal271998/test",
     "authors": [
         {
             "name": "vishalsundriyal",
@@ -9,7 +9,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "vishal\\HelloWorld\\": "src/"
+            "vishal271998\\HelloWorld\\": "src/"
         }
     },
     "require": {}
