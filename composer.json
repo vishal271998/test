@@ -1,0 +1,16 @@
+{
+    "name": "vishal/test",
+    "authors": [
+        {
+            "name": "vishalsundriyal",
+            "email": "vishalsundriyal567@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "vitalis\\HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
